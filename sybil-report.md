@@ -1,4 +1,4 @@
-#Reported Addresses
+# Reported Addresses
 ```
 List Total 1951 Address
 0x9A5A2B5a92DD029C87bCDe32072E74a331E4Aae7
@@ -1953,8 +1953,18 @@ List Total 1951 Address
 0x6eC833Ad75aCFE197d4e35ACA76ba69b3E7a0eda
 0x5bBBBB6D3a52064329355809189bC2E0316e2831
 ```
-#Description
+# Description
+- LayerZeRo Sybil Reported Suspect Address Mostly Using Deposit From Exchange Binance & OKX, Have Same Transaction Using Stargate To Bridge To Other Chain
+- Mostly Using Chainlist Like Ethereum, Binance Smart Chain, Polygon, Arbitrum, Optimistic, Avalanche
+- Mostly Using Stablecoin Like USDT, USDC To Transaction Bridge Using Stargate
+- Have Similiar Time/Date Transaction
 
-#Detailed Methodology & Walkthrough
+# Detailed Methodology & Walkthrough
+- Using Tool Arkhamintelligence For Example Some Address On List
+- Trace Address 0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547 & 0x4637663DD7b880192F6d8ab539b8f930ce201f3a Have Similiar Transaction
+(https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_1.png?raw=true)
 
-#Reward Address (If Eligible)
+# Reward Address (If Eligible)
+```
+0x00000017806996123D6532ba2de5854b1Bf020c1
+```

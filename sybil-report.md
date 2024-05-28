@@ -1956,17 +1956,28 @@ List Total 1951 Address
 # Description
 - LayerZeRo Sybil Reported Suspect Address Mostly Using Deposit From Exchange Binance & OKX, Have Same Transaction Using Stargate To Bridge To Other Chain
 - Mostly Using Chainlist Like Ethereum, Binance Smart Chain, Polygon, Arbitrum, Optimistic, Avalanche
-- Mostly Using Stablecoin Like USDT, USDC To Transaction Bridge Using Stargate
+- Mostly Using Stablecoin Like USDT, USDC To Transaction Bridge Using Stargate At Least Volume $100+/Transaction
 - Have Similiar Time/Date Transaction
 
 # Detailed Methodology & Walkthrough
-- Using Tool Arkhamintelligence For Example Some Address On List
-- Trace Address 0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547 & 0x4637663DD7b880192F6d8ab539b8f930ce201f3a Have Similiar Transaction
-
-- Address 0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547
+- Using Tool Arkhamintelligence/Explorer Chain For Example Some Address On List
+- Trace Address Have Similiar Transaction Deposit From Exchange Binance & OKX
+- Address [0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547](https://platform.arkhamintelligence.com/tracer?address=0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547)
 [![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_1.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
-- Address 0x4637663DD7b880192F6d8ab539b8f930ce201f3a
+- Address [0x4637663DD7b880192F6d8ab539b8f930ce201f3a](https://platform.arkhamintelligence.com/tracer?address=0x4637663DD7b880192F6d8ab539b8f930ce201f3a)
 [![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_2.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
+
+- Have Same/Similiar Active Wallet Age
+- Address [0x9A5A2B5a92DD029C87bCDe32072E74a331E4Aae7](https://platform.arkhamintelligence.com/explorer/address/0x9A5A2B5a92DD029C87bCDe32072E74a331E4Aae7)
+[![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_3.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
+- Address [0x4637663DD7b880192F6d8ab539b8f930ce201f3a](https://platform.arkhamintelligence.com/explorer/address/0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547)
+[![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_4.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
+
+- Have Same/Similiar Transaction Date & Time, But Have A Different Hours/1-2 Days,Mostly Transaction Using Stablecoin Like USDT, USDC Volume At Least Volume $100+/Transaction, Mostly Bridge With Stargate
+- Address TX [0x9A5A2B5a92DD029C87bCDe32072E74a331E4Aae7](https://platform.arkhamintelligence.com/explorer/tx/0x70dba0832c55c4245d433bdd9cb0d12edb5c1d3b4c990127bbe54b779ba40f57))
+[![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_5.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
+- Address TX [0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547](https://platform.arkhamintelligence.com/explorer/tx/0x144cfdd8e7c1e669a12b499ac5e88d0e7a0956cfbfe19653acee5390db2dd200))
+[![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_6.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
 
 # Reward Address (If Eligible)
 ```

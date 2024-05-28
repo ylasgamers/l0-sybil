@@ -1960,7 +1960,7 @@ List Total 1951 Address
 - Have Similiar Time/Date Transaction
 
 # Detailed Methodology & Walkthrough
-- Using Tool Arkhamintelligence/Explorer Chain For Example Some Address On List
+- Using Tool Arkhamintelligence For Example Some Address On List
 - Trace Address Have Similiar Transaction Deposit From Exchange Binance & OKX
 - Address [0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547](https://platform.arkhamintelligence.com/tracer?address=0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547)
 [![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_1.png?raw=true)](https://github.com/ylasgamers/l0-sybil)

@@ -1962,7 +1962,11 @@ List Total 1951 Address
 # Detailed Methodology & Walkthrough
 - Using Tool Arkhamintelligence For Example Some Address On List
 - Trace Address 0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547 & 0x4637663DD7b880192F6d8ab539b8f930ce201f3a Have Similiar Transaction
+
+- Address 0x5E7DEdE2bEF2757d0E7D9B8D7C1522aDD665d547
 [![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_1.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
+- Address 0x4637663DD7b880192F6d8ab539b8f930ce201f3a
+[![YLAS GAMERS](https://github.com/ylasgamers/l0-sybil/blob/main/Screenshot_2.png?raw=true)](https://github.com/ylasgamers/l0-sybil)
 
 # Reward Address (If Eligible)
 ```
